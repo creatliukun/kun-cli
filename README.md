@@ -15,10 +15,10 @@
 终端命令
 
 ```bash
- @kun-cli upgrade ## 检测更新
- @kun-cli mirror + 你的镜像链接 ## 设置下载模板时的镜像地址
- @kun-cli template  ##  下载/更新模板
- @kun-cli init 项目名字 ##  初始化模板
+#  @kun-cli upgrade ## 检测更新
+#  @kun-cli mirror + 你的镜像链接 ## 设置下载模板时的镜像地址
+#  @kun-cli template  ##  下载/更新模板
+#  @kun-cli init 项目名字 ##  初始化模板
  @kun-cli create  项目名字 ##  拉取线上模板，这里示例vue的api文件
  @kun-cli --help  ##  展示帮助选项
 ```
