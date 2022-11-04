@@ -1,6 +1,6 @@
 {
   "name": "zero_one_kun",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "一个练习脚手架的项目",
   "main": "./bin/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/creatliukun/YCY-TrainingCamp-S1.git"
+    "url": "git://github.com/creatliukun/kun-cli.git"
   },
   "keywords": [],
   "author": "imKun",
