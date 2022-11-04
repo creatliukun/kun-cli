@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// `#!/usr/bin/env node` （固定第一行）必加，主要是让系统看到这一行的时候，会沿着对应路径查找 node 并执行
+//TODO: 固定第一行）必加 `#!/usr/bin/env node` （，主要是让系统看到这一行的时候，会沿着对应路径查找 node 并执行
 
 // 请求 commander 库
 const program = require('commander')
